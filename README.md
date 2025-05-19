@@ -61,6 +61,11 @@ This project implements a custom deep convolutional neural network (AdvancedCNN)
 - Advanced Residual Networks for Multi-label Classification
 - Adam Optimizer, ReduceLROnPlateau, Early Stopping
 
+## Demo & Data
+
+- 📺 **Demo Video:** [Watch on YouTube](https://youtu.be/js4BASJYQS8?si=9QAHMjGlNEgBIJZa)
+- 📂 **Data Source:** [Multi-label Image Classification Dataset on Kaggle](https://www.kaggle.com/datasets/meherunnesashraboni/multi-label-image-classification-dataset?resource=download)
+
 ## Authors
 
 - [ChiCoTheLaAnh](https://github.com/ChiCoTheLaAnh)
